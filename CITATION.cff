@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "EnvironmentalEconomics — Academic Booklet Repository"
+message: "If you use this repository for teaching or research, please cite it."
+type: software
+authors:
+  - name: "Alireza"
+repository-code: "https://github.com/59alireza59/EnvironmentalEconomics"
+keywords:
+  - environmental economics
+  - cost benefit analysis
+  - ecosystem services
+  - hedonic pricing
+  - travel cost method
+  - biodiversity valuation
+license: "MIT"
