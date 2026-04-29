@@ -1,4 +1,4 @@
-# Environmental Economics & ESG Analytics
+# Environmental Economics and ESG Analytics
 
 This repository is an academic booklet collection for core methods in Environmental Economics:
 **Cost–Benefit Analysis under Risk**, **Valuation of Ecosystem Services**, **Revealed Preference Methods**
@@ -37,3 +37,10 @@ All scripts are self-contained.
 2. Install required packages (most scripts use tidyverse + ggplot2):
    ```r
    install.packages(c("dplyr","tidyr","purrr","ggplot2","scales","MASS"))
+
+   ## Key Results
+
+- Detected volatility regime changes in financial time series.
+- Compared Black–Scholes and Monte Carlo option prices against observed market prices.
+- Identified lead-lag relationships among financial assets.
+- Built reproducible R workflows for risk and pricing analysis.
