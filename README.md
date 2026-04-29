@@ -1,4 +1,4 @@
-# EnvironmentalEconomics — Academic Booklet Repository
+# Environmental Economics & ESG Analytics
 
 This repository is an academic booklet collection for core methods in Environmental Economics:
 **Cost–Benefit Analysis under Risk**, **Valuation of Ecosystem Services**, **Revealed Preference Methods**
